@@ -1,0 +1,5 @@
+rootProject.name = 'auto-trader-v2'
+include 'app-api'
+include 'application'
+include 'adapter-http'
+
